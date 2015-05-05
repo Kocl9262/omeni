@@ -1,0 +1,17 @@
+body{
+    background-color: #e8e8e8;
+}
+.main_slika{
+    width: 300px;
+}
+.projekti{
+    font-size: 25px;
+}
+.projekti_con{
+    position: relative;
+    margin-top: 40px;
+}
+.kontakt_con{
+    position: relative;
+    margin-top: 40px;
+}
